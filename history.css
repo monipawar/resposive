@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.prog1{
+    background-color: gray;
+    height: 50px;
+    margin-top: 5%;
+    
+}
+
+.prog1 h1{
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+
+.prog1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    text-align: justify;
+}
+
+/* .prog2{
+    background-color: rgb(216, 16, 16);
+    height: 50px;
+    margin-top: 5%;
+    
+}
+ 
+.prog3{
+    background-color: gray;
+    height: 50px;
+    margin-top: 5%;
+    
+}
+.prog4{
+    background-color: gray;
+    height: 50px;
+    margin-top: 5%;
+    
+}
+.prog5{
+    background-color: gray;
+    height: 50px;
+    margin-top: 5%;
+    
+}
+
+.prog6{
+    background-color: gray;
+    height: 50px;
+    margin-top: 5%;
+    
+}*/

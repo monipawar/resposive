@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.fact{
+    background-color: rgb(157, 197, 197);
+    padding: 0px;
+    height:  100px;
+    margin-top: 5%;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+.fact h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    margin-left: 35%;
+    padding:  1%;
+
+}
+
+.fact h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 40%;
+
+}
+
+.fact1 h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    padding-top: 5%;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.fact1 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.fact2 h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    padding-top: 5%;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.fact2 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.fact3 h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    padding-top: 5%;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.fact3 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.fact4 h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    padding-top: 5%;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.fact4 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}
+
+.fact5 h1{
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+    padding-top: 5%;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+.fact5 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+}

@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.prog1{
+    background-color: blanchedalmond;
+    padding: 20px;
+    
+}
+
+.prog1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    text-decoration: underline;
+    color: brown;
+    }
+
+    .prog1 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5%;
+    }

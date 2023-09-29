@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.prog1{
+    background-color: rgb(223, 126, 210);
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+
+    
+}
+
+.prog1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.prog2 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+
+.prog3 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog4 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog5 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog6 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog7 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog8 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog9 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog10 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog3 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog4 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog5 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog6 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog7 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog8 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog9 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog10 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}
+
+
+.prog11 ul li{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 10%;
+}
+
+.prog12 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}

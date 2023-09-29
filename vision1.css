@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.prog1{
+    background-color: rgb(154, 223, 126);
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+
+    
+}
+
+.prog1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.prog2 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.prog3 p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    font-weight: lighter;
+    line-height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    margin-top: 5%;
+}

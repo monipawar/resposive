@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.prog1{
+    background-color: rgb(235, 161, 148);
+    padding: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+
+    
+}
+
+.prog1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+    
+    }
+
+    .prog2 ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5%;
+        margin-left: 10%;
+        font-size: 20px;
+        margin-right: 10%;
+    }
+
+
+    .prog3 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5px;
+    }
+
+    .prog4 ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5%;
+        margin-left: 10%;
+        font-size: 20px;
+        margin-right: 10%;
+    }
+
+
+    .prog5 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5px;
+    }
+
+    .prog6 ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5%;
+        margin-left: 10%;
+        font-size: 20px;
+        margin-right: 10%;
+    }
+
+
+    .prog7 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5px;
+    }
+
+    .prog8 ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5%;
+        margin-left: 10%;
+        font-size: 20px;
+        margin-right: 10%;
+    }
+
+
+    .prog9 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5px;
+    }
+
+    .prog10 ul li{
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5%;
+        margin-left: 10%;
+        font-size: 20px;
+        margin-right: 10%;
+    }
+
+
+    .prog11 p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: grey;
+        font-weight: lighter;
+        line-height: 50px;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: justify;
+        margin-top: 5px;
+    }
